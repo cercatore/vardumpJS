@@ -20,7 +20,7 @@ using Firestore AngularFire and Angular
 
 [CLAUDIO BAGNA.TO](http://claudiobagnato.com/)
 
-[chrome-store-url]:(http://github.com/cercatore/STMANAGE)
+[chrome-store-url]:http://github.com/cercatore/STMANAGE
 
-aaa
+
 
